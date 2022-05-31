@@ -1,0 +1,15 @@
+[package]
+name = "khepri_headerchain_feeder"
+authors      = ["Abdelhamid Bakhta <abdelhamid.bakhta@gmail.com>"]
+categories   = ["bitcoin", "light-client", "stark"]
+description  = "Bitcoin Header chain fetcher."
+edition      = "2021"
+homepage     = "https://github.com/bitcoin-stark/khepri/khepri-headerchain-feeder"
+keywords     = ["p2p", "sync", "nats", "streaming"]
+license-file = "LICENSE"
+readme       = "README.md"
+repository   = "https://github.com/bitcoin-stark/khepri/khepri-headerchain-feeder"
+version      = "0.0.1"
+
+
+[dependencies]

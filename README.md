@@ -1,2 +1,9 @@
 # khepri
-Stateful Bitcoin Light Client with proven checkpoints enabling trustless &amp; hyper fast synchronization. 
+
+STARK-proven Stateful BTC client enabling hyper fast trustless sync and checkpoints.
+
+## Description
+
+## Documentation
+
+
